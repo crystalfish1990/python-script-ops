@@ -12,7 +12,7 @@ import time
 # 初始化需要部署的项目名称,主机,分支
 ALL_SERVICE = {
 	'lzgsl-iac-1.1.0-SNAPSHOT': [['lz1', 'lz3'], 'gsl'],
-  'lzsh-firm-1.1.0-SNAPSHOT': [['lz1', 'lz3'], 'sh'],
+	'lzsh-firm-1.1.0-SNAPSHOT': [['lz1', 'lz3'], 'sh'],
 }
 
 # 初始化匹配的文件后缀, 上传文件规定以tar.gz结尾
